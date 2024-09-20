@@ -1,1 +1,1 @@
-# mastermindp-Kratos-2-Demo-prototype
+# Kratos-2 & Demo Prototype
