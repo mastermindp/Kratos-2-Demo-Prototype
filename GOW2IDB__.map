@@ -26713,11 +26713,11 @@
  0002:0025A6AC       loc_25A6AC
  0002:0025A6E0       loc_25A6E0
  0002:0025A724       loc_25A724
- 0002:0025A748       sub_25A748
+ 0002:0025A748       GameState::GoToDeadMenu(void)
  0002:0025A7D4       loc_25A7D4
- 0002:0025A7F0       GameState::GoToDeadMenu(void)
+ 0002:0025A7F0       GameState::GoToFailedMenu(void)
  0002:0025A87C       loc_25A87C
- 0002:0025A898       sub_25A898
+ 0002:0025A898       GameState::aaaaaaaaaaaaa(int)
  0002:0025A910       loc_25A910
  0002:0025A930       loc_25A930
  0002:0025A934       loc_25A934
@@ -26725,13 +26725,13 @@
  0002:0025A978       sub_25A978
  0002:0025A9E4       loc_25A9E4
  0002:0025A9F0       loc_25A9F0
- 0002:0025AA00       sub_25AA00
+ 0002:0025AA00       GameState::GoToSaveMenu(int)
  0002:0025AA3C       loc_25AA3C
  0002:0025AA5C       loc_25AA5C
  0002:0025AA9C       loc_25AA9C
  0002:0025AAA8       loc_25AAA8
- 0002:0025AAC0       sub_25AAC0
- 0002:0025AB00       sub_25AB00
+ 0002:0025AAC0       GameState::GoToLoadChecking(void)
+ 0002:0025AB00       GameState::Pause(int)
  0002:0025AB10       sub_25AB10
  0002:0025AB4C       loc_25AB4C
  0002:0025AB68       loc_25AB68
@@ -26837,7 +26837,7 @@
  0002:0025B728       loc_25B728
  0002:0025B7B4       loc_25B7B4
  0002:0025B7E0       sub_25B7E0
- 0002:0025B820       sub_25B820
+ 0002:0025B820       GameState::ShowLoadScreen(int)
  0002:0025B880       loc_25B880
  0002:0025B890       loc_25B890
  0002:0025B8E4       loc_25B8E4
